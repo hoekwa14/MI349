@@ -12,17 +12,17 @@ main {
     width: 85%;
 }
 
-.details {
-    display: flex;
-    gap: 25px;
-}
-
 .masthead {
     background-image: url('images/federica-galli-aiqKc07b5PA-unsplash 1.jpg');
     background-size: cover;
     background-position: bottom;
-    height: 200px;
+    height: 250px;
     border-radius: 20px;
+}
+
+.details {
+    display: flex;
+    gap: 25px;
 }
 
 .details section {
